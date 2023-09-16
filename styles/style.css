@@ -234,7 +234,7 @@ ol {
 }
 
 .content__list-item:not(:last-child) {
-	margin-block-end: 34px;
+	margin-block-end: 27px;
 }
 
 .content__card-link {
@@ -268,8 +268,10 @@ ol {
 	font-family: Oswald, sans-serif;
 	font-size: 30px;
 	font-weight: 700;
-	text-transform: uppercase;
+	line-height: 90%;
+	padding-block-start: 0;
 	margin-block-end: 6px;
+	text-transform: uppercase;
 }
 
 .content__video-card-description {
