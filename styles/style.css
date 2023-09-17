@@ -241,7 +241,7 @@ ol {
 }
 
 .content__details {
-	inline-size: 100%;
+	inline-size: 411px;
 	block-size: 100%;
 	display: flex;
 	flex-direction: column;
@@ -281,6 +281,7 @@ ol {
 	display: block;
 	text-decoration: none;
 	color: #fff;
+	margin: 2px;
 }
 
 .content__card-link:active {
